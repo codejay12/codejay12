@@ -1,6 +1,27 @@
-Overview/README.md
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-# Hi 👋,Iam Reesu Jagan
+<div id="header" align="center">
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Iam Reesu Jagan:)
+</h1>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/reesu-jagan-115401232/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@reesujagan6346/featured">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=codejay12&style=flat-square&color=blue" alt=""/>
+</div>
 
 This site was built using [GitHub Action](https://codejay12.github.io)>
 
