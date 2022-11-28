@@ -19,11 +19,14 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+   <a href="https://codejay12.github.io">
+    <img src="https://img.shields.io/badge/Github-fork?style=for-the-badge&logo=github&logoColor=black" alt="Twitter Badge"/>
+  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=codejay12&style=flat-square&color=blue" alt=""/>
 </div>
 
-This site was built using [GitHub Action](https://codejay12.github.io)>
+
 
 # 👨🏻‍💻I am :
 * Frenzied about Programming (Machine Learning), IT Automation, Research, Project, Products and Analytics.
