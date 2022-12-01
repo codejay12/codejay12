@@ -34,7 +34,7 @@
 * Actvely involved in several ML research projects in Bioinformatics and Education domains.
 * Also a tech-writer on Medium and Kaggle.
 * Passionate to learn new things, share my knowledge, improve existing skills, experiment with acquired skills and challenge my capabilities.
-* A student of Mechanical Engnnering at RGUKT-Nuzvid.
+* A student of Mechanical Engineering at RGUKT-Nuzvid.
 
 
 # 🎯Skills :
