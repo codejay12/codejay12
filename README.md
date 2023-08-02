@@ -9,6 +9,11 @@
   Iam Reesu Jagan:)
 </h1>
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/discussion/light)
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/reesu-jagan-115401232/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
