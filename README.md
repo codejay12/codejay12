@@ -9,10 +9,10 @@
   Iam Reesu Jagan:)
 </h1>
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/discussion/light)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/competition/)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/dataset/)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/notebook/)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/discussion/)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/reesu-jagan-115401232/">
@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/@reesujagan6346/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Overfiting">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
    <a href="https://codejay12.github.io">
