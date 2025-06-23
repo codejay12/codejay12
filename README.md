@@ -9,10 +9,6 @@
   Iam Reesu Jagan:)
 </h1>
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/competition/)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/dataset/)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/notebook/)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jaygun84/discussion/)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/reesu-jagan-115401232/">
