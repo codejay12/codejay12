@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>
-    Hey there! 👋 I'm Reesu Jagan
+    Hey there! I'm Reesu Jagan
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />
   </h1>
 
@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-I'm a Data & Applied Scientist with 2.5+ years of experience building ML and deep learning systems that drive meaningful impact — from cutting bakery losses in Dubai to optimizing last-mile delivery with RL, and from demand forecasting for farms to building NLP-based RAG bots.
+I'm a Data & Applied Scientist with 2.5+ years of experience building ML and deep learning systems that drive meaningful impact — from optimizing last-mile delivery with RL, and from demand forecasting for farms to building NLP-based RAG bots and solving customer issues using conversational AI.
 
 I enjoy working at the intersection of **NLP**, **forecasting**, and **optimization**, often blending data science with engineering to create deployable, scalable AI tools.
 
