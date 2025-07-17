@@ -1,56 +1,61 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>
 
-<div id="header" align="center">
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Iam Reesu Jagan:)
-</h1>
+<div align="center">
+  <h1>
+    Hey there! 👋 I'm Reesu Jagan
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />
+  </h1>
 
+  <p>Curious mind | Data & Applied Scientist | Builder of AI-powered systems that solve real-world problems</p>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/reesu-jagan-115401232/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@reesujagan6346/featured">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/Overfiting">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-   <a href="https://codejay12.github.io">
-    <img src="https://img.shields.io/badge/Github-fork?style=for-the-badge&logo=github&logoColor=black" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=codejay12&style=flat-square&color=blue" alt=""/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/reesu-jagan-115401232/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/Overfiting">
+      <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://www.reesujagan.in">
+      <img src="https://img.shields.io/badge/Portfolio-darkblue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+  </div>
+
+  <img src="https://komarev.com/ghpvc/?username=codejay12&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
+---
 
+## 🚀 About Me
 
-# 👨🏻‍💻I am :
-* Frenzied about Programming (Machine Learning), IT Automation, Research, Project, Products and Analytics.
-* Currently, exploring Data Science & Machine Learning;
-* Actvely involved in several ML research projects in Bioinformatics and Education domains.
-* Also a tech-writer on Medium and Kaggle.
-* Passionate to learn new things, share my knowledge, improve existing skills, experiment with acquired skills and challenge my capabilities.
-* A student of Mechanical Engineering at RGUKT-Nuzvid.
+I'm a Data & Applied Scientist with 2.5+ years of experience building ML and deep learning systems that drive meaningful impact — from cutting bakery losses in Dubai to optimizing last-mile delivery with RL, and from demand forecasting for farms to building NLP-based RAG bots.
 
+I enjoy working at the intersection of **NLP**, **forecasting**, and **optimization**, often blending data science with engineering to create deployable, scalable AI tools.
 
-# 🎯Skills :
-* Programming: Python (Advanced), C (For Contests), R, SQL
-* DS & ML Tools (Python) : NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Keras, Tensorflow, Pycaret, PyTorch.
-* Data Analysis: MS Excel, SAS, Tableau.
-* IT Automation: Automation in MS Word, Powerpoint, Excel, Google Sheets, Adobe Photoshop, Illustrator, Photo Manipulations using Python at large scale.
-* IT Skills: Software Troubleshooting, Advanced in IT and computer Skills.
-* Product Development, Project Management, Business Development and Strategic Planning and Analysis.
-*	Statistics/Machine Learning: 
-  * Statistical Modeling Algorithms – Simple Linear and multiple Linear Regression, Logistic Regression, shrinkage/regularization techniques like Ridge/LASSO/ELASTIC Net/PCA
-  * Machine Learning Algorithms (Ensembles) – Agglomeration, Clustering, Recommender Systems, KNN, K-Means, Decision Tree, Random Forest, SVM, Bagging, Boosting, Ada-Boosting, Gradient Boosting, XGB, Stacking etc. 
-  * Neural Networks – Artificial Neural Networks, Deep Learning. Auto Encoders
-  * Optimization and Decision Analysis – Linear Programming Algorithm (LP), Non-Linear Programming (NLP) Algorithm, Genetic Algorithm, Goal Programming
+I believe in making things work *and* making them better — whether that’s squeezing a few extra percent from a model, or saving millions in operational waste.
+
+---
 
 
 
+## 🛠️ Tech Stack & Tools
+
+**Languages**: Python (Advanced), R, SQL, C  
+**ML Frameworks**: Scikit-learn, TensorFlow, PyTorch, Keras, PyCaret  
+**Visualization**: Matplotlib, Seaborn, Power BI, Excel, Tableau  
+**Tools**: Git, Docker, Jupyter, VS Code, SAS  
+**Domains**: Forecasting, Optimization, NLP, Tabular ML, Reinforcement Learning, Retrieval-Augmented Generation  
+**Soft Skills**: Team Leadership, Project Planning, Fast Prototyping, Documentation
+
+
+
+### 🧭 Currently Exploring:
+- Building agent workflows using LangGraph & RAG  
+- RL for resource allocation and planning  
+- Full-stack ML deployment pipelines (CI/CD + monitoring)
+
+---
+
+> If you're building something cool with AI, feel free to reach out. I'm always up for meaningful conversations and collaboration! 🚀
 
