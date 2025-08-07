@@ -11,18 +11,13 @@
   <p>Data & Applied Scientist Solving real world pain points</p>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/reesu-jagan-115401232/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/Overfiting">
-      <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
+    
     <a href="https://www.reesujagan.in">
       <img src="https://img.shields.io/badge/Portfolio-darkblue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
     </a>
-  </div>
+  
 
-  <img src="https://komarev.com/ghpvc/?username=codejay12&style=flat-square&color=blue" alt="Profile Views"/>
+  
 </div>
 
 ---
