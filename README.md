@@ -3,22 +3,18 @@
 </div>
 
 <div align="center">
-  <h1>
-    Hey there! I'm Reesu Jagan
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />
-  </h1>
+  <h1>Hey there! I'm Reesu Jagan</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />
 
-  <p>Data & Applied Scientist Solving real world pain points</p>
+  <p>Data & Applied Scientist solving real-world pain points</p>
 
   <div id="badges">
-    
     <a href="https://www.reesujagan.in">
       <img src="https://img.shields.io/badge/Portfolio-darkblue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
     </a>
-  
-
-  
+  </div>
 </div>
+
 
 ---
 
