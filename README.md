@@ -8,7 +8,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />
   </h1>
 
-  <p>Curious mind | Data & Applied Scientist | Builder of AI-powered systems that solve real-world problems</p>
+  <p>Data & Applied Scientist Solving real world pain points</p>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/reesu-jagan-115401232/">
@@ -27,21 +27,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-I'm a Data & Applied Scientist with 2.5+ years of experience building ML and deep learning systems that drive meaningful impact — from optimizing last-mile delivery with RL, and from demand forecasting for farms to building NLP-based RAG bots and solving customer issues using conversational AI.
-
-I enjoy working at the intersection of **NLP**, **forecasting**, and **optimization**, often blending data science with engineering to create deployable, scalable AI tools.
-
+I'm a Data & Applied Scientist with 2.6+ years of experience building ML and deep learning systems that drive meaningful impact — from optimizing last-mile delivery with RL, and from demand forecasting for farms to building NLP-based RAG bots and solving customer issues using conversational AI.
 I believe in making things work *and* making them better — whether that’s squeezing a few extra percent from a model, or saving millions in operational waste.
 
 ---
 
 
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-**Languages**: Python (Advanced), R, SQL, C  
+**Languages**: Python (Advanced), R, SQL, C,Rust (Learning),Triton and cuda(In Planning)  
 **ML Frameworks**: Scikit-learn, TensorFlow, PyTorch, Keras, PyCaret  
 **Visualization**: Matplotlib, Seaborn, Power BI, Excel, Tableau  
 **Tools**: Git, Docker, Jupyter, VS Code, SAS  
@@ -51,8 +48,8 @@ I believe in making things work *and* making them better — whether that’s sq
 
 
 ### 🧭 Currently Exploring:
-- Building agent workflows using LangGraph & RAG  
-- RL for resource allocation and planning  
+- Building agent workflows using LangGraph & RAG 
+- competing in fine tuning competition https://www.kaggle.com/competitions/jigsaw-agile-community-rules current score at 0.876 AUC
 - Full-stack ML deployment pipelines (CI/CD + monitoring)
 
 ---
